@@ -6,11 +6,11 @@
 - 🤖 Capstone 1: Autonomous Robots
 - 🏗️ Capstone 2: Applications of Machine Learning - Building Damage Classification
 
-Here are a few of the skills that I have learned from UMD or Self-Exploration with aproject || *UMD projects may not be on Github*
+Here are a few of the skills that I have learned from UMD or Self-Exploration with a project || *UMD projects may not be on Github*
 - Python
-  - Mario Kart Stats Project - A large-scale project used to keep track of stats for Mario Kart Wii for my friends and I, compiles data into a pdf to showcase our skills against one another
+  - Mario Kart Stats Project - A large-scale project used to keep track of stats for Mario Kart Wii, compiles data into a neat pdf.
 - C and C++
-  - Using an ST B-L4S5I-IOT01A dev board, created a system that utilizes the onboard random number generator, and communicates the output via BLE communication. 
+  - ST B-L4S5I-IOT01A dev board project using UART and BLE communication as well as the onboard RNG
 - MATLAB
   - ML Techniques - PCA/LDA, SVM, CNNs, K-Means, Decision Trees
 - Verilog and SystemsVerilog

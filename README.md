@@ -6,7 +6,7 @@
 - 🤖 Capstone 1: Autonomous Robots
 - 🏗️ Capstone 2: Applications of Machine Learning - Building Damage Classification
 
-Here are a few of the skills that I have learned from UMD or Self-Exploration and a project for each || *Some UMD projects are not on github*
+Here are a few of the skills that I have learned from UMD or Self-Exploration with aproject || *UMD projects may not be on Github*
 - Python
   - Mario Kart Stats Project - A large-scale project used to keep track of stats for Mario Kart Wii for my friends and I, compiles data into a pdf to showcase our skills against one another
 - C and C++

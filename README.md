@@ -7,7 +7,7 @@
 - 🏗️ Capstone 2: Applications of Machine Learning - Building Damage Classification
 
 💻 Here are some other projects I have worked on outside of my repositories 💻
-  1. https://github.com/ethan-lott/cmsc421-project
+  1. https://github.com/ethan-lott/cmsc421-project - Parking Lot Simulation: An exploration of Q-Learning
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

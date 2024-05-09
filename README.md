@@ -1,5 +1,5 @@
 ### Pat Marinich
-
+---
 - University of Maryland: Computer Engineering 2024 (Go Terps! 🐢)
 - 🔌 I am interested in both hardware and software systems
 - 🔭 I’m currently working on my UMD capstone courses

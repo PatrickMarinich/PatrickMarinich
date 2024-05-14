@@ -6,16 +6,9 @@
 - 🤖 Capstone 1: Autonomous Robots
 - 🏗️ Capstone 2: Applications of Machine Learning - Building Damage Classification
 
-Here are a few of the skills that I have learned from UMD or Self-Exploration with a project || *UMD projects may not be on Github*
-- Python
-  - Mario Kart Stats Project - A large-scale project used to keep track of stats for Mario Kart Wii, compiles data into a neat pdf.
-- C and C++
-  - ST B-L4S5I-IOT01A dev board project using UART and BLE communication as well as the onboard RNG
-- MATLAB
-  - ML Techniques - PCA/LDA, SVM, CNNs, K-Means, Decision Trees
-- Verilog and SystemsVerilog
-  - Designed a dual-core CPU with an ISA with 10 different instructions: Add, Subtract, AND, OR, Slt, Addi, Jump, Beq, LDA, STR.
- 
+Here are a few of the skills that I have learned from UMD or Self-Exploration || *UMD projects may not be on Github*
+- Python, C, MATLAB, Verilog, SystemsVerilog
+- Embedded Systems, Operating Systems, Autonomous Robots and Control, Topics in AI/ML
 
 💻 Here are some other projects I have worked on outside of my repositories 💻
   1. https://github.com/ethan-lott/cmsc421-project - Parking Lot Simulation: An exploration of Q-Learning

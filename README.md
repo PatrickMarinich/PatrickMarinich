@@ -2,11 +2,12 @@
 ---
 - University of Maryland: Computer Engineering 2024 (Go Terps! 🐢)
 - 🔌 I am interested in both hardware and software systems
-- 🔭 I’m currently working on my UMD capstone courses
+- 🔭 I’m currently working on my WorkoutMap Project
+- 🐢 Below are the UMD capstones that I completed during my undergraduate degree
 - 🤖 Capstone 1: Autonomous Robots
 - 🏗️ Capstone 2: Applications of Machine Learning - Building Damage Classification
 
-Here are a few of the skills that I have learned from UMD or Self-Exploration || *UMD projects may not be on Github*
+Here are a few of the skills that I have learned from UMD or Self-Exploration || *UMD projects may not be on GitHub*
 - Python, C, MATLAB, Verilog, SystemsVerilog
 - Embedded Systems, Operating Systems, Autonomous Robots and Control, Topics in AI/ML
 

@@ -2,7 +2,7 @@
 ---
 - University of Maryland: Computer Engineering 2024 (Go Terps! 🐢)
 - 🔌 I am interested in both hardware and software systems
-- 🔭 I’m currently working on my WorkoutMap Project
+- 🔭 I’m currently working on my Mario Kart Stats Project
 - 🐢 Below are the UMD capstones that I completed during my undergraduate degree
 - 🤖 Capstone 1: Autonomous Robots
 - 🏗️ Capstone 2: Applications of Machine Learning - Building Damage Classification

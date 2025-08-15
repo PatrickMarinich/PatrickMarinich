@@ -1,14 +1,14 @@
 ### Pat Marinich
 ---
-- University of Maryland: Computer Engineering 2024 (Go Terps! 🐢)
+- University of Maryland: Computer Engineering Alum (Go Terps! 🐢)
 - 🔌 I am interested in both hardware and software systems
 - 🔭 I’m currently working on my Mario Kart Stats Project
 - 🐢 Below are the UMD capstones that I completed during my undergraduate degree
 - 🤖 Capstone 1: Autonomous Robots
 - 🏗️ Capstone 2: Applications of Machine Learning - Building Damage Classification
 
-Here are a few of the skills that I have learned from UMD or Self-Exploration || *UMD projects may not be on GitHub*
-- Python, C, MATLAB, Verilog, SystemsVerilog
+Here are a few of the skills that I have learned from UMD or Self-Exploration
+- Python, C, MATLAB, SystemsVerilog
 - Embedded Systems, Operating Systems, Autonomous Robots and Control, Topics in AI/ML
 
 💻 Here are some other projects I have worked on outside of my repositories 💻

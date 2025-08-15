@@ -16,7 +16,6 @@ Here are a few of the skills that I have learned from UMD or Self-Exploration
   2. https://github.com/UMD-ENEE408I/2024_Spring_Labs_Team_4 - Autonomous Robotics: A Robot Obstacle Course
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PatrickMarinich&label=Profile%20views&color=0e75b6&style=flat" alt="patrickmarinich" /> </p>
 
 
 
